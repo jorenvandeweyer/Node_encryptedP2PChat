@@ -1,0 +1,5 @@
+{
+    "privatekey": "-----BEGIN RSA PRIVATE KEY-----YOURKEY-----END RSA PRIVATE KEY-----",
+    "serverip": "SERVER IP",
+    "serverport" : 5001
+}
