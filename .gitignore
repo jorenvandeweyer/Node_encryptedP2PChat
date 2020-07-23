@@ -1,3 +1,5 @@
 settings.json
 serverSettings.json
 id_rsa.pub
+
+node_modules/
